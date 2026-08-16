@@ -1,3 +1,5 @@
+#3. Convert distant given in feet and inches into meter and centimeter.
+
 feet = int(input("Enter feet: "))
 inches = int(input("Enter inches: "))
 

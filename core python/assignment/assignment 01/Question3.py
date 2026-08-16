@@ -1,3 +1,5 @@
+#3. Program to find quotient and remainder of two numbers.
+
 Divident = int(input('enter the value of Divident:'))
 Divisor = int (input(' enter the value of Divisor:'))
 
