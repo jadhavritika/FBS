@@ -1,3 +1,5 @@
+#1. WAP to print all even numbers until n.
+
 n = int(input("Enter n: "))
 
 i = 2

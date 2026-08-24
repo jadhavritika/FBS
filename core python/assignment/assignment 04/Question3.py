@@ -1,3 +1,5 @@
+#3. WAP to print sum of series upto n.
+
 n = int(input("Enter n: "))
 
 i = 1

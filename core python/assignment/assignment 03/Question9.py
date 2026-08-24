@@ -1,3 +1,6 @@
+#9. Input 5 subject marks from user and display grade(eg.First class,Second class ..)
+
+
 S1 = int(input("Enter marks of Subject 1: "))
 S2 = int(input("Enter marks of Subject 2: "))
 S3 = int(input("Enter marks of Subject 3: "))

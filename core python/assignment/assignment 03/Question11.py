@@ -1,3 +1,9 @@
+#11. Accept age of five people and also per person ticket amount and then calculate total
+#amount to ticket to travel for all of them based on following condition :
+#a. Children below 12 = 30% discount
+#b. Senior citizen (above 59) = 50% discount
+#c. Others need to pay full.
+
 no = int(input("enter the no you want to get ticket for"))
 toatal_amount= 0
 while 1<=no:
